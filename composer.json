@@ -1,0 +1,17 @@
+{
+    "name": "mardini/todolist_php_mysql",
+    "description": "todo list with php and mysql",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mardini\\TodolistPhpMysql\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mardini",
+            "email": "mardini1414@gmail.com"
+        }
+    ],
+    "require": {}
+}
